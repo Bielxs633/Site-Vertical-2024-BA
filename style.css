@@ -20,7 +20,7 @@ html, body{
 header{
     position: fixed;
     width: 100vw;
-    background-color: #333;
+    background-color: black;
     padding: 16px;
 }
 
@@ -30,22 +30,22 @@ header nav ul{
 }
 
 header nav a{
-    color: #fff;
+    color: white;
 }
 
 header nav a:hover{
-    background: red;
+    background: white;
     transition: 1s;
 }
-
-img{
-    display: flex;
-}
-
 
 .grupo{
     height: 100vh;
 }
+
+#Inicio{
+    background-image: url('./img/Inicio.jpg');
+}
+
 #Vermelho{
     background-color: red;
 }
@@ -60,4 +60,8 @@ img{
 }
 #Roxo{
     background-color: purple;
+}
+
+#Final{
+    background-image: url('./img/Final.webp');
 }
