@@ -38,6 +38,11 @@ header nav a:hover{
     transition: 1s;
 }
 
+img{
+    display: flex;
+}
+
+
 .grupo{
     height: 100vh;
 }
