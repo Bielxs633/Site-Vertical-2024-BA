@@ -9,6 +9,10 @@ a{
     text-decoration: none;
 }
 
+h2, p{
+    color: white;
+}
+
 ul, ol, li{
     list-style: none;
 }
@@ -34,7 +38,7 @@ header nav a{
 }
 
 header nav a:hover{
-    background: white;
+    background: #278cba;
     transition: 1s;
 }
 
@@ -43,31 +47,47 @@ header nav a:hover{
 }
 
 #Line{
-    background-color: red;
+    background-color: #1a253b;
 }
 #Map{
-    background-color: green;
+    background-color: #273751;
 }
 #Dano{
-    background-color: blue;
+    background-color: #1a253b;
 }
 #Vida{
-    background-color: yellow;
+    background-color: #273751;
 }
 #Ponto{
-    background-color: purple;
+    background-color: #1a253b;
 }
 #Bild{
-    background-color: orange;
+    background-color: #273751;
 }
 #Magic{
-    background-color: brown;
+    background-color: #1a253b;
 }
 
 img{
     height: 1417px;
 }
 
-.conteiner img{
-    height: 500px;
+.historia{
+    margin-left: 48%;
+    margin-top: 10%;
+    height: 700px;
+                                                                                                                                           
+}
+
+.mapa{
+    margin-left: 48%;
+    height: 600px;
+}
+.area{
+    margin-left: 48%;
+    height: 600px;
+}
+.corno{
+    margin-left: 48%;
+    height: 400px;
 }
