@@ -21,7 +21,7 @@ header{
     position: fixed;
     width: 100vw;
     background-color: black;
-    padding: 16px;
+    padding: 34px;
 }
 
 header nav ul{
@@ -42,26 +42,32 @@ header nav a:hover{
     height: 100vh;
 }
 
-#Inicio{
-    background-image: url('./img/Inicio.jpg');
-}
-
-#Vermelho{
+#Line{
     background-color: red;
 }
-#Verde{
+#Map{
     background-color: green;
 }
-#Azul{
+#Dano{
     background-color: blue;
 }
-#Amarelo{
+#Vida{
     background-color: yellow;
 }
-#Roxo{
+#Ponto{
     background-color: purple;
 }
+#Bild{
+    background-color: black;
+}
+#Magic{
+    background-color: brown;
+}
 
-#Final{
-    background-image: url('./img/Final.webp');
+img{
+    height: 1417px;
+}
+
+.conteiner img{
+    height: 500px;
 }
