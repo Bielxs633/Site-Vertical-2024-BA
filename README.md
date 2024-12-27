@@ -2,7 +2,7 @@
 
 Gabriel Soares
 
-![](./img.png)
+![image](https://github.com/user-attachments/assets/2ca05010-9d1d-4a73-aa96-6d80053ec11c)
 
 ---
 
